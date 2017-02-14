@@ -1,0 +1,8 @@
+fileName,owner,docType,applicationId,contentLength
+bank_statement_123,TonyStark,bank_statement,1,1000
+tax_document_1,TonyStark,tax_return,1,16001
+tax_document_2,SteveRogers,tax_return,2,2000
+document_423,ThorOdinson,tax_return,3,1500
+medical_report_1,ThorOdinson,medical_history,3,15000
+prescription_1,StephenStrange,medical_history,4,200
+steven_asset,StephenStrange,bank_statement,4,4000
